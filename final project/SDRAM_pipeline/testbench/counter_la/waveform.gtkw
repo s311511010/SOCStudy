@@ -1,0 +1,81 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Tue Jan 16 16:19:20 2024
+[*]
+[dumpfile] "/home/ubuntu/soc/final/testbench/counter_la/counter_la.vcd"
+[dumpfile_mtime] "Tue Jan 16 16:01:05 2024"
+[dumpfile_size] 62706097
+[savefile] "/home/ubuntu/soc/final/testbench/counter_la/waveform.gtkw"
+[timestart] 1168500000
+[size] 1920 1009
+[pos] -1 -1
+*-25.000000 1288412500 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] counter_la_tb.
+[treeopen] counter_la_tb.uut.
+[treeopen] counter_la_tb.uut.mprj.
+[treeopen] counter_la_tb.uut.mprj.mprj.
+[treeopen] counter_la_tb.uut.mprj.mprj.user_bram.
+[sst_width] 247
+[signals_width] 301
+[sst_expanded] 1
+[sst_vpaned_height] 296
+@200
+-mprj
+@28
+counter_la_tb.uut.mprj.mprj.clk
+counter_la_tb.uut.mprj.mprj.valid
+counter_la_tb.uut.mprj.mprj.wbs_ack_o
+counter_la_tb.uut.mprj.mprj.wbs_we_i
+@22
+counter_la_tb.uut.mprj.mprj.wbs_adr_i[31:0]
+counter_la_tb.uut.mprj.mprj.wbs_dat_i[31:0]
+counter_la_tb.uut.mprj.mprj.wbs_dat_o[31:0]
+@200
+-
+-User Bram
+@28
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.clk
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.busy
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.ready_q
+@22
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.addr[22:0]
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.addr_q[22:0]
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.a_q[12:0]
+@28
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.ba_q[1:0]
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.rw
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.cle_q
+@22
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.cmd_q[3:0]
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.data_d[31:0]
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.data_in[31:0]
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.data_out[31:0]
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.data_q[31:0]
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.delay_ctr_q[15:0]
+@28
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.dq_en_q
+@22
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.dq_q[31:0]
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.dqi_q[31:0]
+@28
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.dqm_q
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.in_valid
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.out_valid
+@22
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.state_q[3:0]
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.cmd_q[3:0]
+@200
+-
+-Burst Buffer
+@22
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.brst_base_addr_q[22:0]
+@28
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.brst_same_bank_q
+@22
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.brst_ctr_q[3:0]
+@200
+-
+@22
+counter_la_tb.checkbits[15:0]
+[pattern_trace] 1
+[pattern_trace] 0
