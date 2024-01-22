@@ -1,0 +1,19 @@
+Reading counter_la_fir.hex
+counter_la_fir.hex loaded into memory
+Memory 5 bytes = 0x6f 0x00 0x00 0x0b 0x13
+VCD info: dumpfile counter_la_fir.vcd opened for output.
+FIR engine start
+Detect start mark (8'hA5) on mprj[23:16], start latency timer.
+Detect end mark (8'h5A) on mprj[23:16], record latency timer.
+Success: Final Y[7:0] output to mprj[31:24] is 0x6f, the same as the golden value.
+FIR engine latency in round 1 =       22000 clock cycles
+Detect start mark (8'hA5) on mprj[23:16], start latency timer.
+Detect end mark (8'h5A) on mprj[23:16], record latency timer.
+Success: Final Y[7:0] output to mprj[31:24] is 0x6f, the same as the golden value.
+FIR engine (hardware) latency in round 2 =       22000 clock cycles
+Detect start mark (8'hA5) on mprj[23:16], start latency timer.
+Detect end mark (8'h5A) on mprj[23:16], record latency timer.
+Success: Final Y[7:0] output to mprj[31:24] is 0x6f, the same as the golden value.
+FIR engine (hardware) latency in round 3 =       22000 clock cycles
+Total FIR engine (hardware) latency =       66000 clock cycles
+Simulation Pass
