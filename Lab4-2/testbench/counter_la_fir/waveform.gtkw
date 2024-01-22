@@ -1,0 +1,87 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Mon Jan 22 13:38:17 2024
+[*]
+[dumpfile] "/home/ubuntu/soc/Lab4/lab-caravel_fir/testbench/counter_la_fir/counter_la_fir.vcd"
+[dumpfile_mtime] "Mon Jan 22 12:25:40 2024"
+[dumpfile_size] 184509526
+[savefile] "/home/ubuntu/soc/Lab4/lab-caravel_fir/testbench/counter_la_fir/waveform.gtkw"
+[timestart] 2074740000
+[size] 1920 1009
+[pos] -9 -41
+*-21.000000 2086562500 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] counter_la_fir_tb.
+[treeopen] counter_la_fir_tb.uut.
+[treeopen] counter_la_fir_tb.uut.mprj.
+[treeopen] counter_la_fir_tb.uut.mprj.mprj.
+[treeopen] counter_la_fir_tb.uut.soc.core.
+[sst_width] 214
+[signals_width] 251
+[sst_expanded] 1
+[sst_vpaned_height] 296
+@22
+counter_la_fir_tb.uut.soc.core.VexRiscv.execute_PC[31:0]
+@200
+-
+-WB Decode
+@28
+counter_la_fir_tb.uut.mprj.mprj.clk
+counter_la_fir_tb.uut.mprj.mprj.wbs_ack_o
+@22
+counter_la_fir_tb.uut.mprj.mprj.wbs_dat_o[31:0]
+@28
+counter_la_fir_tb.uut.mprj.mprj.valid
+counter_la_fir_tb.uut.mprj.mprj.wbs_we_i
+@22
+counter_la_fir_tb.uut.mprj.mprj.wbs_adr_i[31:0]
+counter_la_fir_tb.uut.mprj.mprj.wbs_dat_i[31:0]
+counter_la_fir_tb.uut.mprj.mprj.wbs_dat_o[31:0]
+@28
+counter_la_fir_tb.uut.mprj.mprj.addr_decode[1:0]
+@200
+-
+-WB-AXI
+@28
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.tap_we
+@22
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.tap_waddr[11:0]
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.tap_wdi[31:0]
+@28
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.tap_re
+@22
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.tap_raddr[11:0]
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.tap_rdo[31:0]
+@200
+-
+@28
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.data_we
+@22
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.data_waddr[11:0]
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.data_wdi[31:0]
+@28
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.data_re
+@22
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.data_raddr[11:0]
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.data_rdo[31:0]
+@200
+-
+@28
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.ss_tvalid
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.ss_tready
+@22
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.ss_tdata[31:0]
+@28
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.ss_tlast
+@200
+-
+@28
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.sm_tvalid
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.sm_tready
+@22
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.sm_tdata[31:0]
+@28
+counter_la_fir_tb.uut.mprj.mprj.u_wb_axi.sm_tlast
+@23
+counter_la_fir_tb.checkbits[15:0]
+[pattern_trace] 1
+[pattern_trace] 0
